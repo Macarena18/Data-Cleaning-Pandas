@@ -1,4 +1,3 @@
-<img src= "shark-3740292_640-1280x720.jpg"
 
 # Análisis sobre la supervivencia de las personas tras ser atacadas por un tiburón
 
