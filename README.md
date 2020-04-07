@@ -1,4 +1,4 @@
-https://github.com/Macarena18/Data-Cleaning-Pandas/blob/master/INPUT/shark-3740292_640-1280x720.png
+![alt text](https://github.com/Macarena18/Data-Cleaning-Pandas/blob/master/INPUT/shark-3740292_640-1280x720.png)
 
 # Análisis sobre la supervivencia de las personas tras ser atacadas por un tiburón
 
